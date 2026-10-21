@@ -1,0 +1,26 @@
+## Stage 1 --> Data Ingestion
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+numpy
+
+# ------Embeddings------
+sentence-transformers
+langchain-google-genai
+google-generativeai
+
+# ------Vector DB and Retrieval------
+qdrant-client
+
+# ------Document Parsers------
+unstructured
+python-pptx
+python-docx
+pypdf
+beautifulsoup4
+pdfplumber
+
+# ------Observability-------
+logfire[fastapi, requests]
+loguru
