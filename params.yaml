@@ -1,0 +1,4 @@
+## C:\Users\Lenovo\Desktop\RAG\app\services\retrieval\embeddings.py
+BATCH_SIZE : 50
+_GEMINI_DIM : 3072
+_FALLBACK_DIM : 768
